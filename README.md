@@ -1,3 +1,2 @@
-# EdXBusinessAnalytics
-EdX Business Analytics, Columbia University, week 8, nyc 311 data
-# beer-advocate-web-scrape
+A Web scrape of Beer Advocate's top beers (July 2018)
+Results viewed as Python Pandas dataframe and SQL database
